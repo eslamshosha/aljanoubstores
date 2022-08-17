@@ -1846,7 +1846,7 @@ a.social-link:hover {
   align-items: center;
   -webkit-box-pack: center;
   -ms-flex-pack: center;
-  justify-content: center;
+  justify-content: start;
   font-size: 12px;
   font-weight: 400;
   color: var(--black-color);
@@ -1859,7 +1859,7 @@ a.social-link:hover {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  justify-content: center;
+  justify-content: end;
   text-transform: capitalize;
   font-size: 12px;
   font-weight: 400;
